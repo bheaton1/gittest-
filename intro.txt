@@ -1,4 +1,7 @@
-This is the begining...
+This is the beginingn of Git...
 
-I jut learned how to to use git.
+I just learned how to to use git.
 
+I'm still learning this.
+
+i am not that person. 
