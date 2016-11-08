@@ -1,0 +1,4 @@
+This is the begining...
+
+I jut learned how to to use git.
+
